@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Game Design - The Gauntlet Forums</title>
+    <link>https://forums.gauntlet-rpg.com/c/game-design</link>
+    <description>Topics in the &#39;Game Design&#39; category For the discussion of the design(ing) of LARPs and RPGs. (No recruiting please.)</description>
+    
+      <lastBuildDate>Thu, 07 Nov 2019 02:41:53 +0000</lastBuildDate>
+      <atom:link href="https://forums.gauntlet-rpg.com/c/game-design.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+          <dc:creator><![CDATA[@DeusExBrockina]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/deusexbrockina">@DeusExBrockina</a> wrote:</p>
+            <blockquote>
+              <p>Due to the recent announcement of Diablo 4, I’ve been on a whole dungeon crawl action RPG kinda kick, and while I was playing one I had a bit of a realization:</p>
+<p>The whole premise of that genre of videogame seems in one way to be <em>classic</em> D&amp;D. It’s <em>all</em> about dungeon delving and getting tons of loot and treasure. But the way it happens is that you get just <em>dozens and hundreds</em> of pieces of gear dropping as you kill things and open chests, mostly randomly generated, which you then ritually sort through once you get back to town, in order to see what few items you might actually keep, and sell off the rest.</p>
+<p>Despite this ostensibly being a very classic dungeon crawling type of fantasy, the on-the-fly generation of hundreds of pieces of loot seems like something that only really took off once you could get a computer to do that in the background for you.</p>
+<p>Anyway, that contrast between this classic TTRPG premise and how much it relies on being a videogame and using background algorithms to actually work made me wonder, could you simulate the experience of a game like Diablo, Torchlight, Destiny, etc. in a TTRPG? Have any tabletop games done something similar? Could you do it in a way that’s actually any fun?</p>
+<p>My very first thought would be to have just big ol tables that you roll on and combine the results of, like [Cuirass, Buckler, Helm, Greaves, Sword, Axe, Mace…] + [of the Hawk, of the Templar, of the Revenant, of Strength, of Fire Resistance…] etc. etc. Since it’d bog the game WAY down in play, maybe you just get generic “unopened” loot while you’re dungeon delving, and there’s some sort of post-game phase where you roll it all up and see what you get? I’ve seen plenty of tables for like “If your players search the giant’s pockets, roll on this to see what random junk he has,” but this seems a little different.</p>
+            </blockquote>
+            <p>Posts: 22</p>
+            <p>Participants: 11</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890</link>
+          <pubDate>Thu, 07 Nov 2019 02:41:53 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3890</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+        </item>
+        <item>
+          <title>Seeking brevity readers for QUARREL AND FABLE quickstart</title>
+          <dc:creator><![CDATA[@seanFsmith]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/seanfsmith">@seanFsmith</a> wrote:</p>
+            <blockquote>
+              <p><strong>Quarrel and Fable</strong> <em>is my British OSR game that’s been out for a couple of years now, hearkening back to the UK gamebook craze of the fin de siecle.  The digital rules are forever free, but I’m working on a paper quickstart that’ll be a single sheet total.  This is the first draft of that — it’ll be packaged with a short wilderness module and four pregen characters.</em></p>
+<p><em>I’m largely seeking input on its brevity and clarity — does this make sense from a first read, considering you’d be able to tear off and distribute some small character sheets too?</em></p>
+<hr>
+<h2>QUARREL AND FABLE QUICKSTART</h2>
+<p>Tell stories where YOU are the hero — with only three dice, a pencil, and an eraser.</p>
+<hr>
+<h3>Unified resolution</h3>
+<ul>
+<li>To achieve an uncertain outcome in a risky situation, roll 2D6 equal to or higher than 9.  This is known as <em>Testing your Mettle</em>.</li>
+<li>If you have an <em>advantage</em>, roll 3D6 and sum the highest two.  If you would gain <em>advantage</em> from multiple sources, the situation is no longer risky and you succeed without needing to roll.</li>
+<li>Combat has a slight variation.  Instead of rolling to hit 9, you need to hit your target’s SKILL or higher: success means you inflict damage on them, failure means they inflict damage on you. In combat, whichever side is smaller gets to act first.</li>
+</ul>
+<h3>Three stat system</h3>
+<ul>
+<li>SKILL is a catchall measure of martial prowess.  You gain <em>advantage</em> when attacking a foe with lower SKILL than your own.</li>
+<li>STAMINA dictates longevity and resilience.  Damage you take reduces your STAMINA: if it falls to 0, you fall unconscious; if it falls below 0, you die.</li>
+<li>LUCK is self-explanatory.  You may spend a point of LUCK to give <em>advantage</em> to any time you <em>Test your Mettle</em>.  You can also spend <em>Special Skill</em> points in the same way, if the situation is within the remit of the skill.</li>
+</ul>
+<h3>No more Vancian magic</h3>
+<ul>
+<li>Instead of characters, players must memorise the spells by their three letter codes.  Players cannot refer to this list during play.  Players can’t cast non-existent spells: they lose D6^ STAMINA instead.</li>
+</ul>
+<p><strong>NAD</strong> — <em>Spend 1 STAMINA.  Thirty seconds later, one ignited source expends all of its energy in a single moment.</em></p>
+<p><strong>YAD</strong> — <em>Spend D6v STAMINA.  Push one creature three feet in any direction.</em></p>
+<p><strong>YIP</strong> — <em>Spend D6v STAMINA.  Summon the shadow of a small dog that lasts until the next dawn.  It loudly barks at unfamiliar people or strange smells.</em></p>
+<ul>
+<li>D6v is the lowest of 2D6; D6^ is the highest of 2D6</li>
+</ul>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882</link>
+          <pubDate>Tue, 05 Nov 2019 17:13:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3882</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882.rss">Seeking brevity readers for QUARREL AND FABLE quickstart</source>
+        </item>
+        <item>
+          <title>Things to spend holds on in combat (pbta)</title>
+          <dc:creator><![CDATA[@sa_liberty]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/sa_liberty">@sa_liberty</a> wrote:</p>
+            <blockquote>
+              <p>I am working on a light sci-fi pbta game. I’ve notice that when players use the combat move (Blast 'em!) they sometimes struggle to figure out what to spend an extra hold on. Here is the move as it currently stands:</p>
+<blockquote>
+<p><strong>Blast ‘em!:</strong> When you try to use violence to solve a problem, roll +Swashbuckling.</p>
+<p>10+ Inflict one damage and pick two. 7-9 - Inflict one damage and pick one.</p>
+<ul>
+<li>Avoid return fire (Costs 2)</li>
+<li>Do extra damage (Costs 2)</li>
+<li>Damage something critical</li>
+<li>Be extremely precise</li>
+<li>Give an advantage to a teammate. They gain one plot armor.</li>
+</ul>
+</blockquote>
+<p>Extra damage and avoiding return fire have to cost 2 holds because of how my health system works.</p>
+<p>I am looking for more interesting options to add to the list. I will probably add this as a one-hold option:</p>
+<blockquote>
+<ul>
+<li>Temporarily pin an enemy in place</li>
+</ul>
+</blockquote>
+<p>I am looking for other suggestions. The tone is sci-fi serial TV.</p>
+            </blockquote>
+            <p>Posts: 9</p>
+            <p>Participants: 5</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/things-to-spend-holds-on-in-combat-pbta/3873">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/things-to-spend-holds-on-in-combat-pbta/3873</link>
+          <pubDate>Tue, 05 Nov 2019 00:23:56 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3873</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/things-to-spend-holds-on-in-combat-pbta/3873.rss">Things to spend holds on in combat (pbta)</source>
+        </item>
+        <item>
+          <title>RPGs that have audience involvement</title>
+          <dc:creator><![CDATA[@Axxroytovu]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/axxroytovu">@Axxroytovu</a> wrote:</p>
+            <blockquote>
+              <p>I’m currently collaborating on a Pokémon inspired PbtA game and I wanted to start a discussion about a particular aspect we have been working on. One of the stated design goals for this project is to encourage audience participation as part of the game, either at a convention panel or on a platform like Twitch. I wanted to probe the community about methods they’ve used to engage with an audience in any aspect, and see if anyone knows of other RPGs that have mechanics like this.</p>
+<p>Some examples of what I’m talking about:</p>
+<p>Embark:  when the party embarks on a long journey, the audience rolls+nothing. Result determines whether they find good things or they find trouble along the route.</p>
+<p>Audience Roll + nothing<br>
+The party ventures forth into regions unknown</p>
+<p>10+: There is no danger and the players choose 1<br>
+7-9: There is some danger and the GM chooses 1<br>
+6-: There is significant danger and the GM moves</p>
+<p>Choices:</p>
+<ul>
+<li>You find an ancient ruin of a lost civilization</li>
+<li>You find evidence of a powerful pokemon</li>
+<li>You discover a secret about the world</li>
+<li>You find resources that can be exploited</li>
+<li>You find someone in need who will pay for your help</li>
+</ul>
+<p>Consult the Pokedex: when the players ask a question about the world, Pokémon, or the players, someone will answer truthfully. If the question is about a player or that player’s Pokémon, they will answer. If the question is about the world, the setting, or non-party Pokémon, the audience will volunteer answers and the GM will choose their favorite.</p>
+<p>Wild Encounter: At the start of the session, each member of the audience is offered a raffle ticket. When the party encounters a Pokémon in the wild, the GM pulls a raffle ticket and that audience member decides which Pokémon they run into.</p>
+<p>Has anyone seen other games with mechanics like this? How would you optimize these mechanics for a convention panel? For Twitch? For non-live media like Podcasts or YouTube? Curious to hear your feedback.</p>
+            </blockquote>
+            <p>Posts: 17</p>
+            <p>Participants: 10</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-that-have-audience-involvement/3869">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/rpgs-that-have-audience-involvement/3869</link>
+          <pubDate>Mon, 04 Nov 2019 20:36:59 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3869</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/rpgs-that-have-audience-involvement/3869.rss">RPGs that have audience involvement</source>
+        </item>
+        <item>
+          <title>Seeking Feedback - Mazes and Minotaur conversion into Trophy Gold</title>
+          <dc:creator><![CDATA[@PoccoApoccO]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/poccoapocco">@PoccoApoccO</a> wrote:</p>
+            <blockquote>
+              <p>So I’ve started to play around with mashing Mazes and Minotaurs setting, universe, magic systems and compendiums using Trophy Gold. This has required some basic changes to Trophy to make the characters feel more epic and breaking the previous Warrior/Magician/Specialist classes into profession types with varying degrees of ruin.</p>
+<p>Basic pitch, these are characters inspired from Greek Mythology and tales. Instead of Ruin, the characters have fate. Once maxed, you suffer your fate.</p>
+<p>Gold has been converted to Fortune and there is an additional reward called Glory that opens the ability to recruit hirelings and other advancing aspects with Gods/Goddesses and cities.</p>
+<p>Warriors have 12 Fate as they are expected to do more fighting. Specialists have 10 Fate as they are the in between professions. Magicians have 8 Fate.</p>
+<p>Now Magic will be converted into Rituals but with a catch, as you will be limited based on what profession you are.</p>
+<p>Classes also have talents which mechanical will work like a ritual to differentiate being a basic spearman and an Amazon for example.</p>
+<p>Here is a link to my Google drive with the books compiled for MM that you can download for free, as well as my Google doc with the specialists and warriors completed and changes in rules.</p>
+<p>Right now I’m semi stumped with how to proceed with Rituals/Magic as I want to capture the flavors of the different types of Magicians in their Greek glory.</p>
+<p><a href="https://drive.google.com/folderview?id=1_YUna5CrRRLrVypUXpaaa0noQyPJXPNo" class="onebox" target="_blank" rel="nofollow noopener">https://drive.google.com/folderview?id=1_YUna5CrRRLrVypUXpaaa0noQyPJXPNo</a></p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/seeking-feedback-mazes-and-minotaur-conversion-into-trophy-gold/3829">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/seeking-feedback-mazes-and-minotaur-conversion-into-trophy-gold/3829</link>
+          <pubDate>Thu, 31 Oct 2019 22:33:56 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3829</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/seeking-feedback-mazes-and-minotaur-conversion-into-trophy-gold/3829.rss">Seeking Feedback - Mazes and Minotaur conversion into Trophy Gold</source>
+        </item>
+        <item>
+          <title>Seeking Feedback - Hesitation at the Gate</title>
+          <dc:creator><![CDATA[@Radmad]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+            <blockquote>
+              <p><strong>Hesitation at the Gate</strong>, is an RPG where you play as seekers of Truth in a mystic order during the late Renaissance period. Conflicts are resolved using a trick-taking system with Tarot cards. Characters are built with goals, character affects, skills, personal/interpersonal bonds, and the art/technology they create. The game has themes of alchemy, hermeticism, the Enlightenment, and occultism but is setting pliable to allow players to tweak things to their liking.</p>
+<p>I would very much appreciate any feedback people are willing to give. I have done a few playtests with my personal playgroup and we did not experience any logistical issues like lack of cards or excessive downtime at 2-3 players + GM, but they also had the benefit of the game creator explaining the game as we played it. I am aware that there are missing gameplay examples and summarizing charts, I hope things are not too unintelligible. Some specific feedback/suggestions I am looking for:</p>
+<ul>
+<li>Are any of the rules just completely baffling?</li>
+<li>Are there any clear holes/blind spots in the rules?</li>
+<li>It has come out in play that there feels like diminishing returns in skills/bonds for ranks 3+, are there any attractive bonuses that could shore up this issue?</li>
+</ul>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/3/35cb616f8f1ef3790ba372153804ee46050887d5.jpeg" data-download-href="/uploads/short-url/7FT2UcjJkSyUvuRA7SKPeMiSvc1.jpeg?dl=1" title="0_6CI8AOolgn7-NSiA_.jpg" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/35cb616f8f1ef3790ba372153804ee46050887d5_2_644x499.jpeg" alt="0_6CI8AOolgn7-NSiA_" data-base62-sha1="7FT2UcjJkSyUvuRA7SKPeMiSvc1" width="644" height="499" srcset="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/35cb616f8f1ef3790ba372153804ee46050887d5_2_644x499.jpeg, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/35cb616f8f1ef3790ba372153804ee46050887d5_2_966x748.jpeg 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/3/35cb616f8f1ef3790ba372153804ee46050887d5.jpeg 2x" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/35cb616f8f1ef3790ba372153804ee46050887d5_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">0_6CI8AOolgn7-NSiA_.jpg</span><span class="informations">1024×794 494 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p><a href="https://drive.google.com/file/d/1E9_BRs4YqKTbY3zaI-X82tSxdLqCe9yM/view?usp=sharing" rel="nofollow noopener">Google doc here</a></p>
+            </blockquote>
+            <p>Posts: 12</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/seeking-feedback-hesitation-at-the-gate/3805">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/seeking-feedback-hesitation-at-the-gate/3805</link>
+          <pubDate>Mon, 28 Oct 2019 19:46:38 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3805</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/seeking-feedback-hesitation-at-the-gate/3805.rss">Seeking Feedback - Hesitation at the Gate</source>
+        </item>
+        <item>
+          <title>Vigor: Into Dust – Open Playtest</title>
+          <dc:creator><![CDATA[@jake-householder]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/jake-householder">@jake-householder</a> wrote:</p>
+            <blockquote>
+              <p>Howdy Friends!<br>
+Looking for folks who want to join the open playtest of a game we have coming to KS in November:</p>
+<p><em>Vigor: Into Dust</em> – Character-Forward Collaborative Storytelling in a World on the Brink.</p>
+<p>If you jump over to <a href="https://www.vigorrpg.com/" rel="nofollow noopener">vigorrpg.com</a>, you can click the link to join the playtest Discord and get a free beta pdf copy of the game.</p>
+<p>I’m curious as to what jumps out at you about the game in general, but I’m looking particularly for any feedback on the sections on Assets (items), and The Dust (magic). Those are on pages 40 and 22 of the pdf, respectively.</p>
+<p>Both are intentionally built to allow the players to create on the fly, but I wonder if they’re too vague, or if there’s enough to feel like you can build off of. It’s hard to get that balance right with a game meant to leave a lot of worldbuilding to the players, you know?</p>
+<p>Anyway, I’d love your thoughts if you’re interested!</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/vigor-into-dust-open-playtest/3801">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/vigor-into-dust-open-playtest/3801</link>
+          <pubDate>Mon, 28 Oct 2019 17:29:12 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3801</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/vigor-into-dust-open-playtest/3801.rss">Vigor: Into Dust – Open Playtest</source>
+        </item>
+        <item>
+          <title>Gauntlet Finalists for 200 Word RPG Challenge</title>
+          <dc:creator><![CDATA[@Alexi_Sarge]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/alexi_sarge">@Alexi_Sarge</a> wrote:</p>
+            <blockquote>
+              <p>At least two Gauntlet-affiliated designs in the <a href="https://200wordrpg.github.io/winners" rel="nofollow noopener">finalists</a> for the 200 Word RPG Challenge!</p>
+<p>My game, <a href="https://200wordrpg.github.io/2019/rpg/finalist/2019/10/12/002LicensetoEavesdrop.html" rel="nofollow noopener">002: License to Eavesdrop</a>, is about being secret super-spies at a real-life social gathering. It plays around with the idea of unnwitting collaborators in a game, in the vein of Vincent Baker’s <a href="http://lumpley.com/index.php/anyway/thread/826" rel="nofollow noopener">Vengeful Demon of the Ring</a>. This game felt very experimental to me, and so I’m bowled over and very honored that it’s a finalist!</p>
+<p><a class="mention" href="/u/michael">@Michael</a>’s game <a href="https://200wordrpg.github.io/2019/rpg/finalist/2019/10/02/WeWhoOnceRuled.html" rel="nofollow noopener">We Who Once Ruled</a> is also a finalist. It’s a fascinating way to tell a story about vampiric decadence, rage, and regret using homemade masks and finger paint. Michael’s <a href="https://forums.gauntlet-rpg.com/t/we-who-once-ruled/3434">thread</a> here gives a glimpse into the game’s design process!</p>
+<p>Congrats to all the finalists! Any other finalist games of interest people want to shout out to or discuss here?</p>
+<p>.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/gauntlet-finalists-for-200-word-rpg-challenge/3799">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/gauntlet-finalists-for-200-word-rpg-challenge/3799</link>
+          <pubDate>Mon, 28 Oct 2019 15:29:21 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3799</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/gauntlet-finalists-for-200-word-rpg-challenge/3799.rss">Gauntlet Finalists for 200 Word RPG Challenge</source>
+        </item>
+        <item>
+          <title>[Input wanted] The Fall of Men - a 1000-word RPG</title>
+          <dc:creator><![CDATA[@APM]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/apm">@APM</a> wrote:</p>
+            <blockquote>
+              <p>I’ve written a 1000-word RPG for a challenge at a Swedish RPG-forum (rollspel.nu). The game is called “The Fall of Men” and basically emulates negative character arcs. You take on the role of a withering human being that has recently passed a point of no return and is now in a metaphorical free fall. We play to find out if they manage to brake their fall and get what they desire or otherwise how their situation changes them.</p>
+<p>The game is in English but as it’s not my first language I would really like som international input. Are there any big faults language-wise or text-wise? Is the game understandable? Are there any vital parts missing (I really wanted to have some examples in it, but the word count wouldn’t allow it)? Does it sound like a fun game to play? Or if you have any other comments or thoughts about it, just write here or make comments or suggestions in the document! All input is very welcome!</p>
+<p>Thanks in advance!</p>
+<p>Here’s a Google-docs link (note that this is not the final layout, so I don’t want any feedback regarding the visuals): <a href="https://docs.google.com/document/d/161c5IRtromUPBIfrBVNcU8cNj4wS6_C-BkcnZIq0VsU/edit?usp=sharing" rel="nofollow noopener">https://docs.google.com/document/d/161c5IRtromUPBIfrBVNcU8cNj4wS6_C-BkcnZIq0VsU/edit?usp=sharing</a></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f4534f0293ac3b4bb7d14b3adce47592973f9802.jpeg" data-download-href="/uploads/short-url/yRoZqiAmUytQVcXpq33kF88hq9Q.jpeg?dl=1" title="Fall_of_Men4.jpg" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f4534f0293ac3b4bb7d14b3adce47592973f9802_2_690x500.jpeg" alt="Fall_of_Men4" data-base62-sha1="yRoZqiAmUytQVcXpq33kF88hq9Q" width="690" height="500" srcset="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f4534f0293ac3b4bb7d14b3adce47592973f9802_2_690x500.jpeg, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f4534f0293ac3b4bb7d14b3adce47592973f9802_2_1035x750.jpeg 1.5x" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f4534f0293ac3b4bb7d14b3adce47592973f9802_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Fall_of_Men4.jpg</span><span class="informations">1240×3508 286 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/input-wanted-the-fall-of-men-a-1000-word-rpg/3734">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/input-wanted-the-fall-of-men-a-1000-word-rpg/3734</link>
+          <pubDate>Tue, 22 Oct 2019 09:43:36 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3734</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/input-wanted-the-fall-of-men-a-1000-word-rpg/3734.rss">[Input wanted] The Fall of Men - a 1000-word RPG</source>
+        </item>
+        <item>
+          <title>Fantasy Legal Procedure</title>
+          <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+            <blockquote>
+              <p>So I’ve been thinking about running courtroom drama in fantasy games again, and I simply can’t respect anything that involves a skill or stat check. I’ve decided to go with the following system of proofs based distantly on some forms of medieval jurisprudence.  The courts should be weird and impersonal, utterly incomprehensible to laymen and tend toward cruelty - at least that’s my take.  Obviously there are all sorts of weird trials by ordeal and combat in any proper fantasy game, but if someone decides they need a lawyer and manages to get a fair trial I’ve concocted the following for criminal trials (fantasy civil trials I think need to be settled by judicial champions fighting mounted on pigs and armed with cudgels - to either encourage or discourage players from getting into contract disputes, also as a job opportunity).</p>
+<p>In a Trial by Proof a Full Proof will convict the party of the offense. A Full Proof can made up of two Half Proofs and one of these Half Proofs in turn can be made of two Partial Proofs.</p>
+<p>Full Proof:<br>
+Uncoerced Confession<br>
+Witness Testimony of Priest, Deity, Noble or Cat</p>
+<p>½ Proof:<br>
+Witness Testimony by Commoner<br>
+Coerced Confession<br>
+High Magical Evidence or Spectral Witnesses (Requires pomp and flash)<br>
+Dying Declaration of Victim</p>
+<p>Partial Proof:<br>
+Coerced Testimony<br>
+Circumstantial, Character or Documentary Evidence<br>
+Low Magical Evidence (Shown by testimony)<br>
+Hearsay Witness (Witness is testifying to past statements of others)</p>
+<p>I like this system because it gives players something to do (run around finding evidence and witnesses) rather then reducing the trial to having to make up a functioning fantasy set of laws (really impossible) or roll a lot of dice.</p>
+<p>I’m curious if anyone has any other Partial or 1/2 Proofs that might be especially intriguing and hookish - as general categories not specifics to a particular case or crime.</p>
+            </blockquote>
+            <p>Posts: 17</p>
+            <p>Participants: 11</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/fantasy-legal-procedure/3732">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/fantasy-legal-procedure/3732</link>
+          <pubDate>Tue, 22 Oct 2019 06:03:17 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3732</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/fantasy-legal-procedure/3732.rss">Fantasy Legal Procedure</source>
+        </item>
+        <item>
+          <title>Forged In The Dark with Asian influence</title>
+          <dc:creator><![CDATA[@djinnocide]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/djinnocide">@djinnocide</a> wrote:</p>
+            <blockquote>
+              <p>I’ve been kicking around the idea of a Forged In The Dark game that borrows from old world Asian culture and mythology in the same way that vanilla Blades borrows from Victorian England and Western European tropes and I’m hoping I might be able to utilize the community here to make sure I’ve got something interesting enough to pursue while also managing to be as respectful as possible to the sources I’m inspired by.</p>
+<p>First off, has anyone come across anything that already does this? My idea began with specifically making a Ninja Clan based FiTD game, but the more I’ve thought about it, the more I think it would be fun and interesting to broaden that, creating a game that pulls from ninja, Chinese Taoist priests ala the Mr. Vampire films, yakuza/triad stories, etc.</p>
+<p>I would definitely want to set the game in a fictional setting, so using actual Asian people/places and terms like ninja/yakuza/etc would be swapped out for a different terms, but probably wouldn’t be too different as to still be easily recognizable.</p>
+<p>I love how the idea of feudal Japan lends itself to factions in FiTD and how Yokai would make for a nice analog to the traditional western ghosts in Blades, but I’m also thinking that Balinese aesthetics with their tusked demons and whatnot might give the game a more unusual flavor.</p>
+<p>Anyhow, thanks for humoring my brain dump and I appreciate any feedback you all might have to offer.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/forged-in-the-dark-with-asian-influence/3670">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/forged-in-the-dark-with-asian-influence/3670</link>
+          <pubDate>Sun, 13 Oct 2019 14:47:45 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3670</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/forged-in-the-dark-with-asian-influence/3670.rss">Forged In The Dark with Asian influence</source>
+        </item>
+        <item>
+          <title>Designing Religious Communes/Cults with a Secret</title>
+          <dc:creator><![CDATA[@JMBosch]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/jmbosch">@JMBosch</a> wrote:</p>
+            <blockquote>
+              <p><em>TL;DR: If every campaign in your spiritual horror game took place in a different isolated commune/cult, how would you systematize the creation of that kind of campaign setting?</em></p>
+<p>I’m working on a new suspense/horror game, tentatively called <strong>Labors of Paradise</strong>, where the players are hired to infiltrate a mysterious, isolated religious/spiritual commune for some secret mission and, of course, find more than they bargained for. Thematically, think <em>Wickerman</em>, <em>Midsommar</em>, <em>The Apostle</em>, etc., and mechanically I’m still figuring out a new system that will hopefully challenge player’s agency as their values are questioned and they gradually discover the true powers of the group’s miracles.</p>
+<p>What I’m looking for some input on is the designing of the commune and how much to actually make part of the rules and system versus what to leave to narrative. Since the vast majority of the game/scenes will be confined to the commune, designing it is essentially designing the setting and campaign, like a bigger, more elaborate Incursion from <em>Trophy</em>. I tried drawing inspiration from <em>Dogs in the Vineyard</em>, but the town hierarchy seems too strict and the progression too scripted for what I’m looking for. I need a structure that can be used to present a few pre-made communes in the core rulebook, set around the year 1900, plus methods for a GM to create their own. So far, I’m considering:</p>
+<ul>
+<li>
+<strong>Worship</strong>: What the commune values above all else, whether a deity, object, ideology, emotion, etc. [Effectively a commune-wide <em>trait</em>?]</li>
+<li>
+<strong>Leadership</strong>: The authority structure of the commune. Choice of three? Singular (top-down under one authority figure), council/committee, or collective?</li>
+<li>
+<strong>Service</strong>: The commune’s regular, standard “service” or group behavior honoring their worship.</li>
+<li>
+<strong>Ritual</strong>: Habitual/ritualized behavior of the commune’s members, embodying their worship.</li>
+<li>
+<strong>Ceremony</strong>: A special ceremony for particular circumstances, typically revolving around a transgression or preparation for something dangerous, such as righting a wrong, “cleansing” someone/something, prepping for an arduous task, etc.</li>
+<li>
+<strong>Festival</strong>: A seasonal/annual celebration or thanks-giving event involving long-term planning, large and elaborate activities, and some sort of transformation.</li>
+<li>
+<strong>Transcendence</strong>: A rare occurrence that either brings a commune member into one-ness with their worship or makes them transcend the physical plane and enter the realm of the spirit in some sense.</li>
+</ul>
+<p>But depending on how detailed the GM gets, that could be a lot of pre-writing for a campaign, even though they could probably guarantee most of it would be used, and I don’t know if I want these events to just proceed in a linear order, though that seems to make the most sense in terms of scale. I love the Ring structure of <em>Trophy</em>, but I’m not sure I want the outcome of this to be as pre-determined as that.</p>
+<p>If anyone wants more info on the system, it inverts the typical order of “checks” in an RPG. The player’s “stats” are comprised of opposed Values (sort of like <em>Pendragon</em>’s Traits). The GM declares the difficulty of the check, anywhere from 1D4 to 1D20, and then the player draws a number of cards from their deck based on their character’s Value that is involved in the check (plus bonuses from skills/traits). They choose how many of the cards to play to use the numerical values as “points” towards the check. (Any unplayed cards will be discarded to be recycled back into their deck.) The GM will <em>then</em> roll the difficulty die. More points than die result = success, less points = failure, and equaling the die result is a critical success. Failure with a Value can mean a shift towards the opposing Value. The GM then gains all played cards to add to their own deck to be later used against the players. Still puzzling out that part, but I want the harder the players work against the commune’s interests to come back against them that much harder in the commune’s eventual response.</p>
+            </blockquote>
+            <p>Posts: 10</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/designing-religious-communes-cults-with-a-secret/3662">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/designing-religious-communes-cults-with-a-secret/3662</link>
+          <pubDate>Sat, 12 Oct 2019 20:22:43 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3662</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/designing-religious-communes-cults-with-a-secret/3662.rss">Designing Religious Communes/Cults with a Secret</source>
+        </item>
+        <item>
+          <title>Don&#39;t pay the Ferryman - Character Keeper - Feedback requested</title>
+          <dc:creator><![CDATA[@BlakeRyan]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/blakeryan">@BlakeRyan</a> wrote:</p>
+            <blockquote>
+              <p>Gooday!</p>
+<p>just made an excel character keeper for Don’t pay the Ferryman (pbta fantasy espionage)</p>
+<p>i’m not a wiz kid at excel but I think it works? it requires 3 batches of cut and pasting between tabs.</p>
+<aside class="onebox googledrive">
+  <header class="source">
+      <a href="https://drive.google.com/file/d/1fxfC4cgo_qpCMdTZ7NWAHg98aN2nTNKd/view?usp=drive_open" target="_blank" rel="nofollow noopener">drive.google.com</a>
+  </header>
+  <article class="onebox-body">
+    
+<div class="aspect-image" style="--aspect-ratio:690/362;"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/a/a70ea00027c45cde4d426cfd9033e53ea446689c.png" class="thumbnail"></div>
+
+<h3><a href="https://drive.google.com/file/d/1fxfC4cgo_qpCMdTZ7NWAHg98aN2nTNKd/view?usp=drive_open" target="_blank" rel="nofollow noopener">DPTF-Characters.xlsx</a></h3>
+
+<p>Google Drive file.</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/dont-pay-the-ferryman-character-keeper-feedback-requested/3656">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/dont-pay-the-ferryman-character-keeper-feedback-requested/3656</link>
+          <pubDate>Sat, 12 Oct 2019 06:08:34 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3656</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/dont-pay-the-ferryman-character-keeper-feedback-requested/3656.rss">Don&#39;t pay the Ferryman - Character Keeper - Feedback requested</source>
+        </item>
+        <item>
+          <title>Making some compendium classes for my players and would love some feedback</title>
+          <dc:creator><![CDATA[@Aliteralowlbear]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/aliteralowlbear">@Aliteralowlbear</a> wrote:</p>
+            <blockquote>
+              <p><a href="https://drive.google.com/file/d/1BnrryHnxgMf-XkNobANxI2l6ERhcDj6R/view" rel="nofollow noopener">Compendium classes in question.</a></p>
+<p>First off, really sorry if this isn’t the right spot for this topic, I am just a basic badge baby.</p>
+<p>Anyway, it’s pretty much the title. Doing my first Dungeon World campaign (Loosely based on Keep on the Borderlands). Everybody is having a great time, I mostly just got the urge to make stuff, and I feel like I had some good ideas.</p>
+<p>I should mention that I tried to tailor this to my player’s tastes: they like utility and they really like high risk high reward play.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/making-some-compendium-classes-for-my-players-and-would-love-some-feedback/3654">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/making-some-compendium-classes-for-my-players-and-would-love-some-feedback/3654</link>
+          <pubDate>Sat, 12 Oct 2019 02:32:09 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3654</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/making-some-compendium-classes-for-my-players-and-would-love-some-feedback/3654.rss">Making some compendium classes for my players and would love some feedback</source>
+        </item>
+        <item>
+          <title>Question RE: Tribute Games and Copyright</title>
+          <dc:creator><![CDATA[@FlockOfWingedDoors]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/flockofwingeddoors">@FlockOfWingedDoors</a> wrote:</p>
+            <blockquote>
+              <p>Hello everyone! New to the Gauntlet, hope this topic belongs here!</p>
+<p>I was wondering if anyone has had any experience with making tribute games? I have started on a system based completely off of the movie Pacific Rim, and if I don’t really plan on making money off of it, just releasing it into the world for people to play and to get my name out there a bit, do you think I will run into trouble with Warner Bros in the event that it gains any popularity?</p>
+<p>If I wanted to publish it physically and charge for the cost of production and shipping (with possibly some margin for profit) would that cause issues? If I published it as part of a larger platform that makes its own money (say the Codex) would that pose any problems?</p>
+<p>Things I am using that is theirs:<br>
+-Names of things (Jaeger, Ranger, Kaiju, LOCCENT etc.)<br>
+-The entire concept + history of their world<br>
+-I’m not sure about art yet</p>
+<p>I could be overthinking it but if anyone has any thoughts I would love to hear them!</p>
+            </blockquote>
+            <p>Posts: 16</p>
+            <p>Participants: 9</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/question-re-tribute-games-and-copyright/3640">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/question-re-tribute-games-and-copyright/3640</link>
+          <pubDate>Fri, 11 Oct 2019 04:52:18 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3640</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/question-re-tribute-games-and-copyright/3640.rss">Question RE: Tribute Games and Copyright</source>
+        </item>
+        <item>
+          <title>Cullinary Competition/Food Wars Brainstorming</title>
+          <dc:creator><![CDATA[@PoccoApoccO]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/poccoapocco">@PoccoApoccO</a> wrote:</p>
+            <blockquote>
+              <p>Hi Gauntlet Community,</p>
+<p>I often find inspirations for my games from media, other games, personalities and my own life. Recently I have become very interested in cooking. I am chewing through so many books to catch up on the art of food and of course this led to watching various competitive cooking shows. There is also an anime called Food Wars which more or less lead to me to seperate game ideas and finding systems for each.</p>
+<p>The first would be very much lifted from food wards using Monster Hearts or Hearts of Wulin as a base. I lean to HoW more because replace combat with cook offs, and the stats are easier to change to the basic tastes of sweet, salty, sour, bitter and umami.</p>
+<p>The other idea would be a system similar to Blades but missions would be broken into life, then recipe/prep/even ingredient hunting then the actual competition using said ingredients/techniques.</p>
+<p>This topic is more to source any other ideas or guidance but it has been ‘cooking’ in my brain for some time.</p>
+            </blockquote>
+            <p>Posts: 12</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/cullinary-competition-food-wars-brainstorming/3635">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/cullinary-competition-food-wars-brainstorming/3635</link>
+          <pubDate>Thu, 10 Oct 2019 18:29:43 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3635</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/cullinary-competition-food-wars-brainstorming/3635.rss">Cullinary Competition/Food Wars Brainstorming</source>
+        </item>
+        <item>
+          <title>Discussion about West Marches Inspired Campaign</title>
+          <dc:creator><![CDATA[@ffilz]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/ffilz">@ffilz</a> wrote:</p>
+            <blockquote>
+              <p>I’ve been reading about West Marches again, and I’m thinking aspects of what Ben Robbins did would be a great campaign setup to use with a college friend’s game system (Cold Iron) that I’ve been starting to think about running.</p>
+<p>First a couple links for background:</p>
+<p>A Google Doc where I ruminate on Cold Iron and link to other resources I have: <a href="https://docs.google.com/document/d/1nyOzdxP8VZV2oSyKnxnS160WBRpC1Cd9fNfn2Va9VAI/edit?usp=sharing" rel="nofollow noopener">https://docs.google.com/document/d/1nyOzdxP8VZV2oSyKnxnS160WBRpC1Cd9fNfn…</a></p>
+<p>Ben Robbins blog posts on West Marches: <a href="http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/" rel="nofollow noopener">http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/</a></p>
+<p>Now I say West Marches Inspired rather than West Marches Style for some good reasons.</p>
+<ol>
+<li>
+<p>I don’t expect to have enough players, nor do I have the scheduling flexibility to do the “players recruit a group of players and schedule a session for an expedition” aspect that seems to be one of the main things people mean when they say “West Marches Style”.</p>
+</li>
+<li>
+<p>I’m really interested in the type of sandbox Ben Robbins describes that is NOT a hex crawl (he recommends against a hex map).</p>
+</li>
+<li>
+<p>My schedule only allows for 2 hour sessions. Since Cold Iron has a crunchy (whatever that really means) combat system (it’s at least comparable to D&amp;D 3.x or Classic RuneQuest), it’s not realistic to expect an expedition to explore and return to town in one session. But given <span class="hashtag">#1</span>, that isn’t a problem…</p>
+</li>
+</ol>
+<p>Why am I interested in West Marches? Well, for one, Cold Iron is a system that is not well suited to extensive dungeons, but as a class and level system, if players are to have control over risk, there has to be a “leveled” wilderness. In the past, wilderness encounters were set up by me as GM to be “challenging” to the PCs. Of course that’s really hard to do… Setting up regions with different ranges of occupants allows the players to choose their risk level (of course any time they encounter a new area, they may misjudge , but that’s part of the game, they will need to develop strategies for scoping out new areas. Of course I’ll provide some warnings too.</p>
+<p>Also, Cold Iron has no social mechanics beyond a Charisma attribute and a few spells. This makes the “no town adventures” aspect really appealing.</p>
+<p>So West Marches features I intend to utilize:</p>
+<ol>
+<li>
+<p>Players are responsible for planning expeditions. I will provide some initial rumors and there will be occasional treasure maps or other hints, but it’s up to the players to decide what to do.</p>
+</li>
+<li>
+<p>No town adventures.</p>
+</li>
+<li>
+<p>I won’t show the players my map. If the players decide to make a map (a good idea), I won’t correct mistakes (I will correct clear mis-hearing of things I said, so if after describing “the woods are to the west of your camp” and the players start talking about going east to the woods, I’ll correct them (but if they say we head west to the woods while drawing the woods to the east, oops on their part…). The players will have to decide how to share their maps.</p>
+</li>
+<li>
+<p>Danger gradients and regional encounter tables - with each region having its own encounter table, each region will be theoretically designed with some range of danger, with less dangerous regions closer to town. Regions might have adventure sites that are more dangerous than the general danger level for the region. These should be telegraphed in some way.</p>
+</li>
+<li>
+<p>Adventure sites will not always be designed to easily be cleaned out. Puzzles and locked doors, dangerous encounters., and such may prevent cleaning out and then be a reason to return. Secret areas that are hard to find might have rumors and hints elsewhere that point to them.</p>
+</li>
+</ol>
+<p>Now some additions based on Cold Iron.</p>
+<ol>
+<li>
+<p>Cold Iron has always been run with “magic shops” where you can buy magic items, and that to me is part of the appeal of the game (and makes for a rich expedition planning and risk management system under player control). I will continue that but I’m thinking of limiting the levels of the in town NPC Wizards that make the magic items, placing higher level Wizards out in the wilderness. Those “Wizard Towers” would not really be “safe places” to move the home base to, just a place they can go to acquire the better magic items. Of course I will also place some of the better magic items as treasures.</p>
+</li>
+<li>
+<p>I have in the past introduced D&amp;D style magic items (which often could not be reproduced with Cold Iron spells). These will make for cool treasures to find. There’s a wide variety of cool D&amp;D magic items that won’t break the Cold Iron system but break the Cold Iron magic rules.</p>
+</li>
+</ol>
+<p>One question I have is what sorts of wilderness adventure procedures are important. Ben talks about Ability Score Damage:</p>
+<blockquote>
+<p>I’m avoiding the D&amp;D Edition Wars, but one part of 3E that I used heavily in West Marches (and don’t think I ever mentioned) was ability score damage. It was an extremely useful tool for subtle gradations of wear and tear vs progress, something that’s really critical in a trek/exploration game.</p>
+<p>Forced march to get out of owlbear territory? Lose Con. Fever in the Frog Marches? Lose Wisdom. Dripping wet in the Hidden Stair in the dead of winter? Lose Strength.</p>
+<p>You could also score short-term benefits. Gaze in the Moon Pool? Gain Wisdom, if you do it right. Drink the hearty Druidic mead the Keeper of Bees gave you? Gain Con. Drink the strange brew in the mushroom caves? Lose Charisma (because you’re a little nutty and freaking everyone out) but gain Wisdom, at least for a while.</p>
+<p>Ability score damage was pretty much a constant presence — we rarely had a game without it. It was nice because you could lay on very small impairing effects (ooh, stagnant water, Fort save or -1 Dex), so environmental decisions, like having a good wilderness skill to find good water, made a difference, but it wasn’t a save vs poison or die kind of thing.</p>
+</blockquote>
+<p>I’ll have to look at the D&amp;D rules about that but I’m wondering what sorts of things are in the encounter tables and what comes out of the procedures of the game. Cold Iron doesn’t have much adventuring procedures but these kinds of things could easily be added.</p>
+<p>Does anyone have a favorite wilderness movement rates system? I’m looking for systems that don’t only work with hexes. The system should effectively have miles per hour (or per day, can be converted to miles per hour) for various terrain features with modifiers for roads and paths of various quality. RuneQuest 1e and 2e I know have decent rates, and I think AD&amp;D has some reasonable rates. But any other good ones?</p>
+<p>The next thing on my list of considerations is what sorts of things to have driven by character skills.</p>
+<p>Cold Iron has an Alertness attribute which is generally used for spotting enemies so I want to work on some rules to use it in encounter distance determination, avoiding ambushed, or avoiding surprise in a dungeon environment.</p>
+<p>I think some kind of system for tracking makes sense.</p>
+<p>Wilderness navigation skill could be a good thing.</p>
+<p>The locks and traps skills of D&amp;D thieves are an obvious thing. In the past I have opined that having the thief means you have locks and traps to justify the thief, and then you need to make them hard so the thief doesn’t just bypass them. With Ben’s suggestion that dungeons may have sections that you can’t get into now and have to come back for later, these skills may actually work well.</p>
+<p>Search/Spot Hidden is another thing that is useful.</p>
+<p>Having a Scout class and a Thief class that can be improved to help these areas seems workable. I like the idea of breaking things up so not all Scouts or Thieves are the same. But I think some of the stuff needs to be able to be done by a broader swath of people (one option - give everyone who isn’t a caster 1st level in either Scout or Thief).</p>
+<p>The normal distribution of Cold Iron gives the possibility of a really good roll allowing access to something that normally would be too hard. I don’t think that’s a problem.</p>
+<p>So I just need to decide on the forumula for skill rating and pick ranges of target numbers. D&amp;D 3.x may be a good start here (stepping TN by 5 meshes reasonably well with the scale of the Chance Adjustment Chart - 5 is not quite one standard deviation). Skill rating should be some combination of class level, skill level, and 1 or 2 attribute adjustments, plus possible magic enhancement.</p>
+<p>Are there other broad skill areas (that could become classes) or profficiencies that make sense? Some Charisma based stuff probably makes some sense, but is also tricky with the “No Town Adventures” but that doesn’t mean there aren’t people out in the wilds to talk to and negotiate with.</p>
+<p>Thinking about skills more. I don’t want too big a skill like Survival that covers everything. On the other hand, I don’t want to get so small you need 6 people all having several skills to cover most of what you need. On the other hand, if I’m just having a single party with 2-4 players, maybe a single skill like “scout” that you spend experience on in the same way you spend experience on Fighter or Magic User would make sense since there aren’t many characters and there’s only a single party. Smaller skills where you have to put together a skill set for the expedition at hand make more sense with the rotating roster of a full on West Marches style game.</p>
+<p>I’m wondering how one would make cartography/surveying work well. One of Ben Robbins’ maxims was that he wouldn’t comment on or correct the player’s map. I suppose if a party actually went out with gear to actually survey, you could use the skill to determine the level of accuracy they get and then give them something based on actual measurements from the GM’s map. But surveying over wilderness distances would be quite a task.</p>
+<p>And I’m not sure how to use the social skills if there are limited social contacts out in the wilderness. But maybe you don’t need that many to make the skills worthwhile, and there certainly should be some. And Cold Iron does have a Charisma attribute which needs to be useful for something… The question would be how many angles of social skill does one need.</p>
+<p>This is a list so far I have of non-social skills:</p>
+<p><b>Navigation<br>
+Tracking<br>
+Foraging<br>
+Fishing<br>
+Riding<br>
+Watercraft</b> Rowing, paddling, and poling<br>
+<b>Climbing<br>
+Swimming<br>
+Camouflage</b> Active measures taken to hide.<br>
+<strong>Hide</strong> Passive measures taken to hide.<br>
+<b>Move Silently<br>
+Move Softly</b> Leaving no or minimal tracks.<br>
+<b>Lock Picking<br>
+Trap Finding<br>
+Trap Disarm</b></p>
+<p>Hunting I see as Tracking and then using a weapon skill.</p>
+<p>While I have a dislike of knowledge skills, maybe there are some things that make sense.</p>
+<p>What I need to consider is do you need a character really dedicated to this stuff (like they sacrifice significant combat and magic ability)? In any case, how many PCs do you need to cover the needs of an expedition? How does the set of available skills and how many you can choose impact the ability to plan and make choices for expeditions?</p>
+<p>With a revolving cast of characters on expeditions, you can have specialists and try to recruit the player whose PC has a specialty you need for a particular expedition.</p>
+<p>With a static cast of characters, you either use specialization to give different PCs in the static group different opportunities to shine, or everyone is basically interchangeable, which then makes the tasks not so interesting. But with specialization and a static set of PCs, does it actually reduce player choices because certain avenues of exploration aren’t practical?</p>
+<p>Obviously the issues of missing specialization can somewhat be handled by hiring NPCs, but that goes against the West Marches idea, and also turns the specialization into a resource management task instead of something to differentiate PCs.</p>
+<p>I dunno, bumbling around for ideas…</p>
+<p>Frank</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/discussion-about-west-marches-inspired-campaign/3623">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/discussion-about-west-marches-inspired-campaign/3623</link>
+          <pubDate>Wed, 09 Oct 2019 20:19:46 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3623</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/discussion-about-west-marches-inspired-campaign/3623.rss">Discussion about West Marches Inspired Campaign</source>
+        </item>
+        <item>
+          <title>Making a Dozen Descended From the Queen Games</title>
+          <dc:creator><![CDATA[@Anders]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+            <blockquote>
+              <p>Links to game files (currently only rough drafts in spreadsheet form) are at the end of this post.</p>
+<p><strong>Method update 1 2019-10-21</strong><br>
+I’m putting this ahead of the original post because it seems like the best place for it, I guess? I dunno, let’s move on.</p>
+<p>Having run up eight rough drafts and run into issues with a couple of others, I think I have a better grasp on what makes for a workable DFtQ game. The ideas I have jotted down that I haven’t made drafts for seem to fall outside what works well so instead of trying to push forward to ten drafts just because I will try for maybe one more and then move on to the next phase.</p>
+<p>I think I’ll also make a harder first cull than I had originally planned, maybe going down to just five. We’ll see.</p>
+<p>Either way, I’ll be away for a few days without Google Drive access and when I get back I need to prep for a Pathfinder 2 game so it may be a while before the next update.</p>
+<p><strong>Original Post</strong><br>
+No, not really (probably), but hear me out.</p>
+<p>As noted in the <a href="https://forums.gauntlet-rpg.com/t/who-else-is-designing-a-descended-from-the-queen-game/1925">Who else is designing a Descended From the Queen game?</a> thread, it took me a while to get to the point where I could start working on a DFtQ game of my own. I think I needed to see an example of what someone else was doing that sparked my imagination, and that example turned out to be <a href="https://kiennas.itch.io/oh-maker" rel="nofollow noopener">Oh Maker</a>.</p>
+<p>Once I had the two points of the original game where a queen is escorted on an important mission by a group of selected companions who all love her but whose relationships with her are also complicated and in the end have to decide whether they stand by her, and Oh Maker where a group of androids have to decide whether to free themselves from the programming imparted on them by their creator with more focus on introspection, along with some of the ideas mentioned in the thread mentioned above I started to feel like there was real potential here… but I still wasn’t getting anywhere.</p>
+<p>Not until I made a post in that thread where I outlined what I wanted to see in a game that made it different enough from the original to feel worthwhile making for me personally (I’m not knocking anyone else’s ideas or saying they won’t make games I would enjoy playing), but while writing the first half of that post I came up with a couple of ideas I put into the second half, and once I opened that gate the ideas came flooding through.</p>
+<p>So now I have about a dozen of them jotted down in a notebook and I have to decide how to proceed. I’ve made very rough drafts for two of them (<a href="https://drive.google.com/open?id=1JTq7l2uB-lZ-ToD3nLhk7aCtq6XloC4cAV-dJIIZJTs" rel="nofollow noopener">here</a> and <a href="https://drive.google.com/open?id=1PC498utjvvWylREUxnluXnkqSqvi-dUkfhpgfQjmfyI" rel="nofollow noopener">here</a>), the first fairly close to For the Queen in that it focuses on the player characters’ relationship to a central figure and leads up to them making a choice relating to that figure, the second different in that it’s intended to be more about politics and the characters’ relationship to a political situation rather than an individual, and I had intended to do the same for at least three more ideas before I focus in on any one of them.</p>
+<p>Then I recalled the episode of the RPG Design Panelcast on <a href="https://genesisoflegend.podbean.com/e/episode-220-stage-gate-development/" rel="nofollow noopener">stage gate development</a> and I figured this could be a good way for me to test that design method. Very roughly, and with the caveat that all I know about this topic is what I picked up from that episode a few weeks back, stage gate development means you develop a number of different ideas in parallel with periodical evaluation of which ones you move forward with.</p>
+<p>If I’m applying this incorrectly below, please let me know! I’m kinda fumbling around here to see if this is at all workable.</p>
+<p>For me, this would mean structuring my design process here a bit more which if nothing else might help me focus a bit and deity knows I could use that.</p>
+<p>So like I said, I’ve had about a dozen ideas that were good enough to write down (with two more added while writing this post). I guess the first gate would be to go through that list and figure out which ones seem worth spending the couple of hours it takes to make that first rough draft. Let’s go with that.</p>
+<p><strong>Gate 1: Draft-Worthiness</strong></p>
+<p>I’ll limit this to ten ideas, partly to force myself to do some culling, partly to have a sizable but manageable collection moving forward. I should be able to finish these ten in two weeks, even with other projects stealing some time.</p>
+<p>I think each gate should depend on what the next step in development would be, and in this case I think that means printing out the cards and doing some solo playtesting - just drawing the cards and thinking up answers to see if what I come up with meshes with the feel and feelings I’m going for. That’s not a huge investment so I can be fairly generous, so let’s say I intend to cut three more ideas here and move forward with seven. I’d like a spread of ideas, both thematically and mechanically, so I guess that’s the criteria?</p>
+<p><strong>Gate 2: Uniqueness</strong></p>
+<p>So the seven ideas that pass this gate will get printed out and I’ll do some solo testing. This should be doable in a couple of evenings, but let’s give it a week.</p>
+<p>The next step will be to do some live playtesting with my gamer friends. They’re usually willing to put up with trying new things (and at this point I expect to have played For the Queen with most of them so they’ll know what to expect), but time is an issue. Squeezing in a test run of one of these once per week might be possible, but it’s far from certain. Let’s be pessimistic and say it takes two weeks per game, and I don’t want this to take too long so I’ll just pick out three games here. These will get the full treatment with instruction and inspiration cards which means some extra work.</p>
+<p>So picking out the ones that I will go on to this step with will depend on how they work in my solo tests, making the third gate…</p>
+<p><strong>Gate 3: Feels</strong></p>
+<p>I guess this is where I start to work on making the cards actually look nice for an actual release. That’s not something I enjoy and probably something I should only do for a single game, so I guess I should pick just one of the three that have made it this far and I think the only criterion will be if I want to make it.</p>
+<p><strong>Gate 4: Do I Wanna?</strong></p>
+<p>So I guess that’s some kind of plan?</p>
+<p><strong>Current Status</strong><br>
+Note that all titles are very provisionary. The links go to Google docs and I’ll be happy to take any comments there or here.</p>
+<p>1: <a href="https://drive.google.com/open?id=1JTq7l2uB-lZ-ToD3nLhk7aCtq6XloC4cAV-dJIIZJTs" rel="nofollow noopener">The Hero’s Successors</a>: As the city’s guardian hero prepares to retire, they have called together various individuals - friends, associates, rivals - in whom they see the spark of heroism to ask them to continue the work of keeping the city safe. Explores the characters’ relationships to the hero. <strong>First draft.</strong></p>
+<p>2: <a href="https://drive.google.com/open?id=1PC498utjvvWylREUxnluXnkqSqvi-dUkfhpgfQjmfyI" rel="nofollow noopener">Movement and Hierarchy</a>: At the dawn of revolution, the leaders of various resistance groups have to decide whether to throw in their lot with a radical faction or wait for a more opportune moment to strike. Explores the world and the characters’ motivations. <strong>First draft.</strong></p>
+<p>3: <a href="https://docs.google.com/spreadsheets/d/1KBPQAy_JpflDzbK8ZhuKDBS6fB89gGJoTCdzdr8TjBY/edit?usp=sharing" rel="nofollow noopener">Farm Guardians</a>: The players are minor spirits and other supernatural creatures living on and around a farm. They have made various deals with the family living there, but as a new generation prepares to take over the farm the guardians reconsider their relationships with the family. Explores the relationships between the creatures and the family. <strong>First draft.</strong></p>
+<p>4: <a href="https://docs.google.com/spreadsheets/d/1K6jzjK-hD6vfKXRwLA94Ovae38FHxq9h3MCkRmfFCUM/edit?usp=sharing" rel="nofollow noopener">Post-Apocalyptic Survivors</a>: The players are survivors in a camp located in one of the few livable places after the world was destroyed. At dawn a threat will arrive to attack the camp. Do they stay and fight or leave? Explores the world and what pushes the characters to stay or leave. <strong>First draft.</strong></p>
+<p>5: <a href="https://drive.google.com/open?id=1aYB_2K-RY-xfZBa4yfCAC6OynkNTjCIltV8DbW8YgzE" rel="nofollow noopener">The Curtain Rises</a>: A group of actors are rehearsing a strange and sinister play put on by a mysterious producer and a tyrannical director. Will they play their parts when the curtain rises? Explores the play and what impels the actors to participate. <strong>First draft.</strong></p>
+<p>6: <a href="https://docs.google.com/spreadsheets/d/1MtF9CvHVHEQVOkOvHg2ZL6cKsafxqHi66oLGSsA15vI/edit?usp=sharing" rel="nofollow noopener">The Master’s Disciples</a>: The disciples of a religious leader await his ascension and/or death at dawn. Explores religious teachings and the relationship between the disciples and the teacher. <strong>Fist draft.</strong></p>
+<p>7: <a href="https://docs.google.com/spreadsheets/d/1OOD4Cokzg2X8BiOq_X4l9Bk5_mNbBP82DE0adfVt694/edit?usp=sharing" rel="nofollow noopener">Journey to Yomarihai</a>: A group of travellers seek the mythical land of Yomarihai, encountering strange peoples and customs along the way. Once they arrive, will they want to return home or stay? Explores the world and the characters’ reactions to foreign lands. Uses a staged deck with three sets of cards for the familiar homelands, the strange lands beyond, and Yomarihai. <strong>First draft.</strong></p>
+<p>8: <a href="https://docs.google.com/spreadsheets/d/1nOK3gZX3dDnO9E4ABWWlMAUfTf8Y91zHYxD6d9UW_0U/edit?usp=sharing" rel="nofollow noopener">Stay or Go</a>: Two people in a long term relationship turned sour has to decide whether to try again or break up. For two players. Explores the relationship between the characters. <strong>First draft.</strong></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/making-a-dozen-descended-from-the-queen-games/3622">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/making-a-dozen-descended-from-the-queen-games/3622</link>
+          <pubDate>Wed, 09 Oct 2019 17:23:55 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3622</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/making-a-dozen-descended-from-the-queen-games/3622.rss">Making a Dozen Descended From the Queen Games</source>
+        </item>
+        <item>
+          <title>Monarchy Games at a Long Con</title>
+          <dc:creator><![CDATA[@DavidMK]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/davidmk">@DavidMK</a> wrote:</p>
+            <blockquote>
+              <p><strong>Background:</strong> The convention was a weekend-long one, MinnLoCo, in which we all played in the same group for the duration. There was a Blades in the Dark game, an orcs DramaSystem game, a Dread-themed one, a SCUP one, a Fall of Magic one, and I think another with a variety of games, and there was mine which were all in the theme of exploring monarchy using GM-less games.</p>
+<p><strong>Thinking:</strong> I decided to run three games together under the same theme and world and it worked out nicely. I considered what games I had access to which were in the same theme and settled on monarchy. I then choose three which I’d never played/facilitated to give me a challenge. (Note: I did watch YouTube videos for Questlandia, The King Is Dead, and For the Queen to help me to understand the rules in play.)</p>
+<p><strong>Description:</strong> <em>Uneasy Lies the Head That Wears a Crown</em> - Questlandia, The King Is Dead, For the Queen, and maybe also Kingdom) - We will play through a handful of GM-less indie RPGs that explore themes and stories about aspects of monarchy.</p>
+<p>Overall, it went very well. We did not use Kingdom, which was fine as I have played that before and it has a fair amount of setup. As it was we didn’t have time to run all of the rounds in the Questlandia game by the convention’s end because we were enjoying the world-building and reincorporation and character discussions. I also feel like we had a great fit as a group and were comfortable using the X-Card and discussing things we liked and didn’t.</p>
+<p><strong>Session I: Questlandia, Part 1 –</strong> Worldbuilding and the shared creation of three Icons, who were maybe historical figures or fictional, but based on what would become a mythological foundation of the world. Our world was called ViikLoR and was a colonized planet on which the colonizers were unable to return from. There was a native population who were subjugated with the mech technology and polyamorous dueling culture. We went through setup and played one full round before stopping Friday night. War was the greatest Trouble for us and that carried through the rest of the weekend.</p>
+<p><strong>Session II: The King Is Dead –</strong> Saturday morning after breakfast, we reviewed what we’d done the prior night and what was next, which was to play in the same world using a new rule system to create something more like a history that we would think of with the Houses of ViikLoR instead of Banteave. We noted changes in the world and beliefs and norms through play in the new game. There were sections in The King Is Dead where the rules left us uncertain how to proceed, but we managed after a while. Some of this was from our space elements and such from the prior game. Some of it was from rules which were not clear to us. The Trials by Contest were the most confusing and we only played out two of them as separate events. One which resulted in an unexpected turn of events, suggesting that one of our Icons was now a kind of vengeful god-like psychic being that would threaten all. The Meeting Sword to Sword gave us an amazing fast-paced mech duel. There was going to be a War, but it quickly changed to Stealing Time Together, which I believe was our group’s favorite game to use in the system. I feel like The King Is Dead needs another pass of playtesting and editing before it’s “done” because of how much we struggled with the rules as written. It felt like a wonderful ashcan game. Otherwise, it was a great morning game that helped us to establish our world’s historical dynamics, building on the legends of the three founding Icons and continuing to show ViikLoR as a world in turmoil caught between the needs and desires of three cultures.</p>
+<p><strong>Session III: For the Queen –</strong> After Saturday’s lunch, we reviewed where we were, looked at the map, the relationship maps, the legends, and talked about our plans with the next game, For the Queen. This game focused an epic story of powers battling for control down to a mix of in- and out-of-character gossip and emotions focused around our characters’ relationships with the Queen, a descendant of the outside alien conqueror who took over in the previous game. We decided on one queen card based on our shared history and got to playing the game. Our group consisted of a cook, a bed-maker, a warrior, an opportunist, and a spy. We had two humans, one native, and two aliens in the group. Resentment, bigotry, machinations, and more came out before our queen was attacked.</p>
+<p><strong>Session IV: Questlandia, Part 2 –</strong> We picked up our last session on Sunday morning after breakfast. We had a lot to review and a short amount of time in which to play our final game, returning to Questlandia. We decided to play in a time two to three generations from the one used in For the Queen. We made many changes to our map and discussed a lot more in the features and norms about what to keep, change, or replace. We then created our individual characters and with the time remaining played one full round and an epilogue. We explored law, politics, workers’ rights, economics, back-channel politics, faith and religion, racism and classism, what it meant to be a citizen and the duty of a government, all culminating in a sneak attack and coup with a duel and change of power for the throne and its people of ViikLoR. Our epilogues included showing the triumphs and struggles of the new throne, the nobility, outside interference, the religion, and the search for the long lost library of an Icon in the holy mountains north of the royal city.</p>
+<p><strong>Closing:</strong> It would have been wonderful to have played more rounds with this game, but I feel we all ended the game, and the whole event with a shared enjoyment of what we created. I don’t know if this combination would work for all groups, however, based on the one experience with it, I believe that others could and should give it a go. If you do, please share your experience with me.</p>
+<h3>Gameography</h3>
+<ul>
+<li>
+<strong>Questlandia:</strong>  Hannah Shaffer and Evan Rowland, Make Big Things, <a href="http://makebigthings.com/questlandia-rpg/" rel="nofollow noopener">http://makebigthings.com/questlandia-rpg/</a>
+</li>
+<li>
+<strong>The King Is Dead:</strong>  Meguey &amp; Vincent Baker, Lumpley Games, <a href="https://lumpley.itch.io/the-king-is-dead" rel="nofollow noopener">https://lumpley.itch.io/the-king-is-dead</a>
+</li>
+<li>
+<strong>For the Queen:</strong>  Alex Roberts, Evil Hat Productions, <a href="https://www.evilhat.com/home/for-the-queen/" rel="nofollow noopener">https://www.evilhat.com/home/for-the-queen/</a>
+</li>
+</ul>
+<blockquote>
+<p>Reposted from <a href="http://aquavertigo.com/monarchy-games-at-a-long-con/" rel="nofollow noopener">http://aquavertigo.com/monarchy-games-at-a-long-con/</a></p>
+</blockquote>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/monarchy-games-at-a-long-con/3535">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/monarchy-games-at-a-long-con/3535</link>
+          <pubDate>Sat, 05 Oct 2019 17:28:35 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3535</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/monarchy-games-at-a-long-con/3535.rss">Monarchy Games at a Long Con</source>
+        </item>
+        <item>
+          <title>Need help testing moves</title>
+          <dc:creator><![CDATA[@ghostPepperWonton]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/ghostpepperwonton">@ghostPepperWonton</a> wrote:</p>
+            <blockquote>
+              <p>I’m starting to gather help for an alpha playtest (Reddit post <a href="https://www.reddit.com/r/PBtA/comments/dbtx8c/seeking_alpha_test_gms/" rel="nofollow noopener">here</a> if you’re interested in GM-ing), and I’m looking for help testing out my moves and how well they trigger. How do you gather advice or testing other than the obvious (just playing with your normal groups)?</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/need-help-testing-moves/3507">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/need-help-testing-moves/3507</link>
+          <pubDate>Fri, 04 Oct 2019 19:26:25 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3507</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/need-help-testing-moves/3507.rss">Need help testing moves</source>
+        </item>
+        <item>
+          <title>Ghost/Echo&#39;s influence</title>
+          <dc:creator><![CDATA[@technoskald]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/technoskald">@technoskald</a> wrote:</p>
+            <blockquote>
+              <p>Earlier this week, I <a href="https://technoskald.me/2019/10/03/my-first-look-at-ghost-echo/" rel="nofollow noopener">ran a game</a> of <a href="http://www.onesevendesign.com/ghostecho/" rel="nofollow noopener">Ghost/Echo</a>, the 2009 “oracle game” by John Harper. My blog post talks about our experience and things I might do with it, but what I really want to ask is:</p>
+<p><strong>Why didn’t this lead to more in the space?</strong> It’s about the same “weight” as <a href="http://www.onesevendesign.com/laserfeelings/" rel="nofollow noopener">Lasers &amp; Feelings</a>, which seems to have gotten more traction. I know a bunch of hacks came out right after G/E, but it doesn’t seem like there’s a lot of traction. My players <em>loved</em> how the Otherkind dice system gave them so much agency in deciding what happened but within constraints so it didn’t just become wish fulfillment, and I loved how the structure gave me just enough to run a game without forcing me to do tons of prep.</p>
+<p>Is there something I’ve missed, or have I just found a “road less traveled”?</p>
+            </blockquote>
+            <p>Posts: 8</p>
+            <p>Participants: 6</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/ghost-echos-influence/3501">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/ghost-echos-influence/3501</link>
+          <pubDate>Fri, 04 Oct 2019 12:34:59 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3501</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/ghost-echos-influence/3501.rss">Ghost/Echo&#39;s influence</source>
+        </item>
+        <item>
+          <title>Automatic reaction/initiative moves</title>
+          <dc:creator><![CDATA[@Yendor]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/yendor">@Yendor</a> wrote:</p>
+            <blockquote>
+              <p>I play a lot of skirmish games and one in particular called “Song of Blades and Heroes” (which was inspired a little I think by a WWII game called crossfire that had a similar way of handling activation),  allows you to take 1, 2 or 3 actions per character model in your warband/party. An action is mostly either a move or attack.</p>
+<p>Each action is 1D6 roll and you want to avoid a 1 because the action will fail.  So the roll is both a dice for activation and the action in one roll.</p>
+<p>If you roll two 1’s on the dice you pass initiative back to the opponent.  This is a neat gamble, in that you could push for 3 actions for your model/character but it increases the odds of passing the turn back to the opponent. To mitigate that risk you can take a single action and a single roll of a 1  is not an issue, so you can play it safe and slowly move into attack rather than pushing it with 2 or 3 actions per model.  I typically leave my gamble of 2 or 3 dice actions toward the end of activation my models.</p>
+<p>I was wondering about building something like this risk/ward into an RPG game, so that players could decide to complete a lot of actions the more they try the higher chance of a dungeon creature or other negative impact results from pushing themselves too hard. Or if they are lucky they get to pull off a string of exciting moves.</p>
+<p>Is this a potential good idea? The risk/reward approach of stringing together player moves and then using a mechanism to manage that?   It might in a way remove initiative sequence because one of the group might gamble away there activation when they fail the first of a string of 3 moves that results in them stumbling (or some other failure) presenting an opening to the bad stuff/monsters to make their moves.</p>
+<p>Is it worth exploring, has it been done in an RPG before (Edit: SOBH does have an RPG version and tied closely to the skirmish rules) and does it feel interesting enough to explore bolting into an existing game to test?</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 5</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475</link>
+          <pubDate>Wed, 02 Oct 2019 16:11:37 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3475</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475.rss">Automatic reaction/initiative moves</source>
+        </item>
+        <item>
+          <title>We Who Once Ruled</title>
+          <dc:creator><![CDATA[@Michael]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+            <blockquote>
+              <p>I put together a game for this year’s <a href="https://200wordrpg.github.io/" rel="nofollow noopener">200 word rpg challenge</a> and I’m happy with the initial draft.  It’s called <a href="https://docs.google.com/document/d/1oKKOT6KRdYNfH9an8AfSOMWP7i0a-KU4uccUM_qa3Uo/edit?usp=sharing" rel="nofollow noopener">We Who Once Ruled.</a></p>
+<p>I’d appreciate any design feedback but I’m particularly interested in:</p>
+<ul>
+<li>Do you think you could run this from the provided directions?</li>
+<li>Are the prompts specific/ contrained enough that you think you could respond to them (though obviously the open range of possible responses is intentional)?</li>
+<li>Is there enough tone implied in the structure?  (Especially unsympathetic tragedy.)</li>
+<li>Is the mask-based resolution clear enough?  Is ‘more red’ a thing you’d be able to determine quickly, without discussion?</li>
+</ul>
+            </blockquote>
+            <p>Posts: 13</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/we-who-once-ruled/3434">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/we-who-once-ruled/3434</link>
+          <pubDate>Mon, 30 Sep 2019 16:21:29 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3434</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/we-who-once-ruled/3434.rss">We Who Once Ruled</source>
+        </item>
+        <item>
+          <title>Here, there be Dragons! - A Kid-Friendly System for Monster Hunting</title>
+          <dc:creator><![CDATA[@DanFelder]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/danfelder">@DanFelder</a> wrote:</p>
+            <blockquote>
+              <p>Hey everyone, thanks for being such a welcoming community. I’ve just wrapped up the playtest rules for “Here, There Be Dragons!” It’s a rules lite system focused on one thing: hunting monsters. It’s aimed for short 1-hour, 1-shot adventures. I’ve been playtesting it at lunch with co-workers and it’s gone over great in the studio. We have a lot of gamers that have very little experience with tabletop RPGs, and now all of them are making their own monsters and taking turns running monster hunts to show them off.</p>
+<p>Here’s a link to the playtest doc if you’re curious. I’d love to get feedback from players outside my groups. It’s pretty short, the whole thing’s only 17 pages  with cover page and table of contents:</p>
+<p><strong><a href="https://docs.google.com/document/d/1n5GbNeJmrv37qx4Dd-kAiQizQHBORvGHObJF10H0ago/edit#" rel="nofollow noopener">Here, There Be Dragons! - Playtest Rules</a></strong></p>
+<p>To try and tempt you to looking in, here are some of the system’s distinctive features:</p>
+<ol>
+<li>
+<p>A simple “push your luck” approach to action economy that adds a tense decision to every turn and makes it fun to watch other players decide whether to push their luck or pass their turn.</p>
+</li>
+<li>
+<p>Truly mysterious magic. Hunters only know the name of a spell they discover. They don’t know what it does until they cast it, and they can only cast each spell once.</p>
+</li>
+<li>
+<p>No stats, no expertise. Weirdly, people haven’t seemed to need them. The focus is on fighting monsters, using equipment, and real-life detective work. Stats just got in the way.</p>
+</li>
+<li>
+<p>Each hunt is a mystery. Hunters don’t know what monster they’re hunting until they face it in battle. During the Search, they find places the monster has been that provide clues as to its nature. Hunters gain benefits for figuring out what those clues mean, putting the focus on foreshadowing the monster and drawing players into the hunt.</p>
+</li>
+<li>
+<p>The monster is the battle map. The Creator (GM) draws a crude map of the monster’s sections. Hunters will have to climb the monster and move between these sections. Because…</p>
+</li>
+<li>
+<p>Each monster battle is part puzzle, part cinematic action. The hunters should look for ways to cripple the monster’s strengths and exploit its weaknesses. They should try and cut off the giant scorpion’s stinger, wrap chains around the fire-breathing drake’s mouth, use a log trap to slam the giant tortoise onto its back, etc.</p>
+</li>
+<li>
+<p>Detailed advice for the Creators on how to make monsters that are fun to fight, without worrying about charts or deeply mechanical systems. Many players that have never GMed before have been inspired to make a monster and run it for the first time in this system.</p>
+</li>
+</ol>
+<p>If you have time to read this, thoughts, or questions let me know. I’d love to see some of the great people here run this, and I’d be happy to help however I can.</p>
+            </blockquote>
+            <p>Posts: 7</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/here-there-be-dragons-a-kid-friendly-system-for-monster-hunting/3425">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/here-there-be-dragons-a-kid-friendly-system-for-monster-hunting/3425</link>
+          <pubDate>Mon, 30 Sep 2019 07:39:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3425</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/here-there-be-dragons-a-kid-friendly-system-for-monster-hunting/3425.rss">Here, there be Dragons! - A Kid-Friendly System for Monster Hunting</source>
+        </item>
+        <item>
+          <title>Recipe for a Final Fantasy -esque world</title>
+          <dc:creator><![CDATA[@nonsonogiucas]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/nonsonogiucas">@nonsonogiucas</a> wrote:</p>
+            <blockquote>
+              <p>I’ve been toying with the idea of making a Final Fantasy version of Fellowship. I’m trying to compile a guide for collaborative world building that can capture the spirit of a FF story:</p>
+<p>Let me know what you think, did I miss something? Did I misinterpret something? How can I improve it?</p>
+<aside class="onebox googledocs">
+  <header class="source">
+      <a href="https://docs.google.com/document/d/1y6Jy5FiLq9Ve_vTu09JMuMSbqVVGPZ3ywF1IUcrPOwM/edit?usp=sharing" target="_blank" rel="nofollow noopener">docs.google.com</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://docs.google.com/document/d/1y6Jy5FiLq9Ve_vTu09JMuMSbqVVGPZ3ywF1IUcrPOwM/edit?usp=sharing" target="_blank" rel="nofollow noopener"><span class="googledocs-onebox-logo g-docs-logo"></span></a>
+
+<h3><a href="https://docs.google.com/document/d/1y6Jy5FiLq9Ve_vTu09JMuMSbqVVGPZ3ywF1IUcrPOwM/edit?usp=sharing" target="_blank" rel="nofollow noopener">Copia di Compagnia del Cristallo - Design</a></h3>
+
+<p>Crystal Up or How to do World Building, Final Fantasy Style THE LEGENDS SAY... This Place was old when the Ancients still lived This is what you call Home (name it!) A planet or other celestial body A sealed or walled structure (why is it sealed /...</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/recipe-for-a-final-fantasy-esque-world/3296">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/recipe-for-a-final-fantasy-esque-world/3296</link>
+          <pubDate>Fri, 27 Sep 2019 16:34:42 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3296</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/recipe-for-a-final-fantasy-esque-world/3296.rss">Recipe for a Final Fantasy -esque world</source>
+        </item>
+  </channel>
+</rss>
